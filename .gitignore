@@ -1,0 +1,38 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcconfig
+*.xcbkptlist
+*.xcscheme
+*.xcsettings
+*.xcuserdatad
+
+# Build
+build/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.framework/
+*.app/
+
+# Swift Package Manager
+Packages/
+*.swiftpm
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Misc
+*.DS_Store
+*.swp
+*.swo
+*.log
+*.tmp
+*.pid
+TODO.md
